@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>黄沈浩学前端 Blog</title>
+        <link>https://huang-shen-hao.github.io/blog</link>
+        <description>黄沈浩学前端 Blog</description>
+        <lastBuildDate>Fri, 10 Feb 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh</language>
+        <item>
+            <title><![CDATA[第一个博客]]></title>
+            <link>https://huang-shen-hao.github.io/blog/welcome</link>
+            <guid>https://huang-shen-hao.github.io/blog/welcome</guid>
+            <pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[huang学习前端快半年了，大部分还是停留在理论上，希望能够有更多的实践来提高自己的能力，加油！]]></description>
+            <content:encoded><![CDATA[<p>huang学习前端快半年了，大部分还是停留在理论上，希望能够有更多的实践来提高自己的能力，加油！</p><p><img loading="lazy" alt="七龙珠" src="/assets/images/77-7980629c6f29db48fec95a7be52904db.jpg" width="533" height="300" class="img_ev3q"></p><h1>1.Markdown语法复习</h1><h3 class="anchor anchorWithStickyNavbar_LWe7" id="markdown图片">Markdown图片<a href="#markdown图片" class="hash-link" aria-label="Markdown图片的直接链接" title="Markdown图片的直接链接">​</a></h3><ul><li>开头一个感叹号 !</li></ul><ul><li>接着一个方括号，里面放上图片的替代文字</li></ul><ul><li>接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上选择性的 'title' 属性的文字</li><li>利用markdown在编写文档时插入图片是默认靠左，有些时候将图片设置为居中时可以更加的美观，这时就需要在图片的信息前边添加如下语句<ul><li><code>&lt;div align=center&gt;&lt;img src="[图片路径]"&gt;&lt;/div&gt; </code></li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="markdown快捷键">Markdown快捷键<a href="#markdown快捷键" class="hash-link" aria-label="Markdown快捷键的直接链接" title="Markdown快捷键的直接链接">​</a></h3><ul><li>加粗 Ctrl/Command + B</li><li>斜体 Ctrl/Command + I</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="markdown标题">Markdown标题<a href="#markdown标题" class="hash-link" aria-label="Markdown标题的直接链接" title="Markdown标题的直接链接">​</a></h3><ul><li>使用 ==== 和 ----- 标记一级和二级标题</li><li>在行首插入 1 到 6 个 # 再加空格，对应到标题 1 到 6 级</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="markdown字体">Markdown字体<a href="#markdown字体" class="hash-link" aria-label="Markdown字体的直接链接" title="Markdown字体的直接链接">​</a></h3><ul><li><em>斜体</em></li><li><em>斜体</em></li><li><strong>粗体</strong></li><li><strong>粗体</strong></li><li><strong><em>粗斜体</em></strong></li><li><strong><em>粗斜体</em></strong></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="markdown分隔线">Markdown分隔线<a href="#markdown分隔线" class="hash-link" aria-label="Markdown分隔线的直接链接" title="Markdown分隔线的直接链接">​</a></h3><ul><li>在一行中用三个以上的星号、减号、底线来建立一个分隔线，行内不能有其他东西。也可以在星号或是减号中间插入空格。</li></ul><hr><hr><hr><h3 class="anchor anchorWithStickyNavbar_LWe7" id="markdown的线">Markdown的线<a href="#markdown的线" class="hash-link" aria-label="Markdown的线的直接链接" title="Markdown的线的直接链接">​</a></h3><ul><li>如果段落上的文字要添加删除线，只需要在文字的两端加上两个波浪线<ul><li><del>我是删除线</del></li></ul></li><li>下划线可以通过HTML的标签来实现<ul><li><u>我是下划线</u></li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="markdown列表">Markdown列表<a href="#markdown列表" class="hash-link" aria-label="Markdown列表的直接链接" title="Markdown列表的直接链接">​</a></h3><ul><li>无序列表使用星号(*)、加号(+)或是减号(-)作为列表标记</li></ul><ul><li>这些标记后面要添加一个空格，然后再填写内容</li></ul>]]></content:encoded>
+            <category>复习</category>
+            <category>前端</category>
+            <category>实践</category>
+        </item>
+    </channel>
+</rss>
